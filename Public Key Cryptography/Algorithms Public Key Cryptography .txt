@@ -1,0 +1,9 @@
+
+
+--> RSA and ECDSA are two widely used algorithms for public key cryptography.
+
+--> RSA is based on factoring the product of two prime numbers, while ECDSA uses elliptic curves.
+
+--> ECDSA can provide the same level of security with smaller key sizes compared to other public key algorithms.
+
+--> Bitcoin uses the secp256k1 curve for digital signing, which is based on ECDSA.

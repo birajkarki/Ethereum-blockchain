@@ -1,0 +1,23 @@
+
+Public key cryptography is a method of encrypting and decrypting messages using a pair of keys
+--> Private key + Public key
+
+
+---> The private key is kept secret by the owner and is used to sign(as a proof that message is from the owner of that key)
+and decrypt the message the Encrypted with public key pair of that private key.
+
+
+---> The public key is made available to anyone who wants to send a message to the owner of that public key
+and is used to verify signatures and encrypt messages.
+This ensures that messages are confidential, authentic, and cannot be tampered with.
+
+
+
+
+
+
+
+
+
+
+For more Detail : https://docs.google.com/presentation/d/e/2PACX-1vSUqk6Uvnole2hTr9r7-UBcvmPquLhMNa_qPHL26BoVCk0v5j2EvsY2UyO6n2JbB7OfxJVArXlBPiAG/pub?start=false&loop=false&delayms=3000&slide=id.g124a3cd5416_2_154

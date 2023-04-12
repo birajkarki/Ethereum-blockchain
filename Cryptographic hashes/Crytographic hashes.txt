@@ -1,0 +1,28 @@
+---Cryptographic hashes are algorithms that take any input of data and convert it into a unique fixed-size output,
+which is referred to as the hash value. Here are some key points to remember:
+
+--Cryptographic hashes are one-way functions, meaning that it is not possible to reverse the process and retrieve the
+original input data from the hash value.
+
+--Even a small change in the input data will produce a completely different hash value, which makes it nearly impossible
+to create two different input data sets that produce the same hash value.
+
+--Cryptographic hashes are widely used in computer security to ensure the integrity and authenticity of data, as well as
+to create digital signatures and password storage.
+
+-In the context of web3, cryptographic hashes play a critical role in securing the blockchain and ensuring the validity of
+transactions. When a user initiates a transaction on the blockchain, the data is hashed using a cryptographic hash function
+to create a unique identifier for that transaction. This identifier is then stored on the blockchain as a record of the
+transaction.
+
+--Here's an example of how a cryptographic hash function works in the context of web3:
+
+-Let's say a user wants to transfer a certain amount of cryptocurrency from their wallet to another user's wallet.
+The transaction data is hashed using a cryptographic hash function such as SHA-256. The resulting hash value serves as
+a unique identifier for the transaction and is stored on the blockchain.
+
+-If someone tries to tamper with the transaction data, such as changing the amount of cryptocurrency being transferred,
+the hash value will be completely different, and the tampered transaction will be rejected by the blockchain as invalid.
+
+--In summary, cryptographic hashes play a crucial role in web3 security by ensuring the validity of transactions and
+protecting against tampering and fraud.
