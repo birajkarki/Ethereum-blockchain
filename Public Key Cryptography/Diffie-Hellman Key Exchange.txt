@@ -1,0 +1,12 @@
+-> Diffie-Hellman is a method used to establish a secret key for encryption.
+-> Diffie-Hellman involves exchanging public variables (such as a generator "g" and a prime number "n")
+   and combining them with private variables to create a shared secret key.
+-> It was first published in 1976 and is widely used in modern cryptography.
+-> The private variables ("a" for Alice and "b" for Bob) are kept secret and never shared with anyone.
+-> The combined public key cannot be reversed to obtain the private keys, making it secure.
+-> Diffie-Hellman is commonly used in various encryption protocols, such as end-to-end encryption and
+   secure communication between devices, including web browsers and servers.
+-> Diffie-Hellman key exchange is complex mathematically, but it is widely used and important in modern cryptography.
+
+
+   https://www.youtube.com/watch?v=NmM9HA2MQGI  -<> for more detail Check this
