@@ -1,0 +1,8 @@
+https://docs.google.com/presentation/d/1HKZ1l_8XAuj4N_6MRFVn155tnigFKNkiZNWw9GujP_4/edit?usp=sharing
+
+
+Mining
+
+Mining is the process of creating a block of transactions
+to be added to a proof-of-work blockchain.
+
